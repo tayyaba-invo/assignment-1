@@ -58,7 +58,7 @@ Run:
 jupyter notebook
 ```
 
-Open `supervised_ml_benchmark_completed.ipynb` and run all cells from top to bottom.
+Open `supervised_ml_benchmark.ipynb` and run all cells from top to bottom.
 
 ## Important
 The final test set is evaluated only after validation-based model comparison. The notebook generates the validation and test result tables automatically so metrics are not manually entered.
